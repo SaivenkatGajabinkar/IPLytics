@@ -30,8 +30,8 @@ IPL performance insights.
 # LOAD DATA
 # =====================================================
 
-matches = pd.read_csv("Data/matches.csv")
-deliveries = pd.read_csv("Data/deliveries.csv")
+matches = pd.read_csv("matches.csv")
+deliveries = pd.read_csv("deliveries.csv")
 
 # =====================================================
 # METRICS SECTION
